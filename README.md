@@ -29,7 +29,7 @@ The provider which manages the state of the player and
 contains all the necessary music player functionalities and features such as Play/Pause,
 skipNext, SkipPrevious, Shuffle, etc...
 
-Add the `AudioPlayerProvider()` as one of the providers in your `main.dart` file
+Add `AudioPlayerProvider()` as one of the providers in your `main.dart` file
 ```dart
 class MyApp extends StatelessWidget {
   @override
