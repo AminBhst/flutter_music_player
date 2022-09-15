@@ -26,7 +26,6 @@ dev_dependencies:
 flutter:
 
   assets:
-    - assets/image/music.png
     - assets/image/play_button.png
     - assets/image/pause_button.png
     - assets/image/previous.png
