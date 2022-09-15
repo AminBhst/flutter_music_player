@@ -3,6 +3,19 @@
 A Flutter package to create a customizable music player application or module with ease
 
 
+## Installing
+
+With Flutter:
+```shell
+$ flutter pub add flutter_music_player
+```
+This will add a line like this to your package's pubspec.yaml (and run an implicit dart pub get):
+
+```yaml
+dependencies:
+flutter_music_player: ^0.0.1
+```
+
 ## Main Components
 
 * AudioPlayerProvider
