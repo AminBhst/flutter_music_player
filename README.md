@@ -2,7 +2,7 @@
 [![license](https://img.shields.io/github/license/aminbhst/flutter_music_player)](https://github.com/AminBhst/flutter_music_player/blob/main/LICENSE)
 # FlutterMusicPlayer
 
-A Flutter package to create a customizable music player application or module with ease
+A Flutter package to create a customizable music player application with ease
 
 ## Installing
 
